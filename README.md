@@ -4,6 +4,12 @@
 
 TI Connectivity Toolbox is a desktop app-store for Texas Instruments applications. Users browse, install, and uninstall TI apps through an Angular client that communicates with a local Flask server.
 
+## Application Preview
+
+A preview of the Connectivity Toolbox interface, a centralized platform for browsing, installing, updating, and managing engineering applications.
+<img width="1913" height="862" alt="צילום מסך 2026-10-15 130601" src="https://github.com/user-attachments/assets/59daefb5-81e2-4fcd-b168-44adaeea2078" />
+
+
 ## Architecture
 
 **Multi-tier (3-layer) architecture:**
